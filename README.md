@@ -17,10 +17,10 @@
 
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=yukineowq&count_private=true&show_icons=true&theme=dracula />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=yukineowq&count_private=true&show_icons=true&theme=dracula width="500" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=yukineowq&layout=compact />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=yukineowq&layout=compact width="350"/>
 </a>
   </p>
   
@@ -60,7 +60,7 @@
 <img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-- 🎨 **UIUX Designer**\
+- 👩‍💻🎨 **UIUX Designer**\
   📆 2021 - april/2021\
   📍 **CS3240 Group Project: maituliao.io** - Singapore
   
