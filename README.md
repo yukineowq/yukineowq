@@ -53,7 +53,7 @@
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 - 👩‍💻🎨**UIUX Lead Design/Graphics Intern**\
-  📆 may/2021 - Present\
+  📆 may/2021 - july/2021\
   📍 **Lalia** - Singapore
 
 <img align="right" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
