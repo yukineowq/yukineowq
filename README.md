@@ -45,6 +45,12 @@
   📍 **Temasek Polytechnic** - Singapore
 
 ## Experience
+  
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+- 👩‍💻🎨**UIUX Lead Designer**\
+  📆 aug/2021 - aug/2021\
+  📍 **Citibank HackOverflow 2021** - Singapore
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -52,7 +58,7 @@
 <img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-- 👩‍💻🎨**UIUX Lead Design/Graphics Intern**\
+- 👩‍💻🎨**UIUX Lead Designer/Graphics Intern**\
   📆 may/2021 - july/2021\
   📍 **Lalia** - Singapore
 
@@ -73,6 +79,12 @@
 - 👩‍💻🎨 **UIUX Designer & Front-End Developer**\
   📆 2021 - april/2021\
   📍 **IS3106 Group Project: MySalesMatter** - Singapore
+  
+<img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+  
+- 👩‍💻🎨 **UIUX Designer**\
+  📆 dec/2020 - jan/2021\
+  📍 **Shopee Product & Design Challenge 2021: ShopeeWorld** - Singapore
   
 <img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
