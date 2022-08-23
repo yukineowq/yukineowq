@@ -27,9 +27,6 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:yuki.neo34@gmail.com'>yuki.neo34@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/yukineowq/yukineowq"></a> hipsters and nerds have come here o/
-</p>
 
 <details>
   <summary>📃 Resume</summary>
