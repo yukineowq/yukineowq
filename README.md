@@ -41,57 +41,6 @@
   📆 2016 - 2019\
   📍 **Temasek Polytechnic** - Singapore
 
-## Experience
-  
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
-- 👩‍💻🎨**UIUX Lead Designer**\
-  📆 aug/2021 - aug/2021\
-  📍 **Citibank HackOverflow 2021** - Singapore
-
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-- 👩‍💻🎨**UIUX Lead Designer/Graphics Intern**\
-  📆 may/2021 - july/2021\
-  📍 **Lalia** - Singapore
-
-<img align="right" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-- 👩‍💻🎨 **UIUX Designer**\
-  📆 2021 - april/2021\
-  📍 **CS3240 Group Project: maituliao.io** - Singapore
-  
-<img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  
-- 👩‍💻🎨 **UIUX Designer & Front-End Developer**\
-  📆 2021 - april/2021\
-  📍 **IS3106 Group Project: MySalesMatter** - Singapore
-  
-<img align="right" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-  
-- 👩‍💻🎨 **UIUX Designer**\
-  📆 dec/2020 - jan/2021\
-  📍 **Shopee Product & Design Challenge 2021: ShopeeWorld** - Singapore
-  
-<img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-- 👩‍💻🎨 **UIUX Designer & Front-End Developer**\
-  📆 may/2020 - july/2020\
-  📍 **NUS Orbital: Eatira** - Singapore
-
 </details>
 
 
