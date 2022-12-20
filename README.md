@@ -17,10 +17,10 @@
 
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=yukineowq&show_icons=true&theme=buefy />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=yukineowq&show_icons=true&theme=buefy width="360"/>
 </a> &nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact width="300" />
 </a>
   </p>
   
